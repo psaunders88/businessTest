@@ -1,0 +1,14 @@
+{
+    "require": {
+        "php": ">=5.4",
+        "florianv/business": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Businesseg\\": "src/"
+        }
+    }
+}
